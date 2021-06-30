@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## UML Component Diagram
+
+![alt text](https://github.com/[E-MRE]/[react-hrms]/blob/[branch]/uml_components.png?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
