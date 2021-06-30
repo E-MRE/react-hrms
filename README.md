@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## UML Component Diagram
 
-![alt text](https://ibb.co/8rZ9w89)
+![alt text](https://i.ibb.co/0CbrLJr/uml-components.png)
 
 ## Available Scripts
 
